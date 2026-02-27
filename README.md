@@ -1,8 +1,43 @@
-# Hi, I'm Muhammad Farhan Akram
-**Full-Stack Mobile Developer | iOS, Android & Cross-Platform Expert**  
-Mosta, Malta Europe  
-[Portfolio](https://mfarhanakram.vercel.app/)  
-[Email](mailto:farhanakramryk@gmail.com)  
+<!-- Gradient Header with Grid Lines -->
+<div style="
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  padding: 80px 20px;
+  text-align: center;
+  color: white;
+  position: relative;
+  overflow: hidden;
+">
+
+  <!-- Grid Overlay -->
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: 
+      linear-gradient(rgba(255,255,255,0.08) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,0.08) 1px, transparent 1px);
+    background-size: 40px 40px;
+    pointer-events: none;
+  "></div>
+
+  <h1 style="font-size: 48px; margin-bottom: 10px; position: relative;">
+    Hi, I'm Muhammad Farhan Akram
+  </h1>
+
+  <h3 style="font-weight: 400; margin-bottom: 20px; position: relative;">
+    Full-Stack Mobile Developer | iOS, Android & Cross-Platform Expert
+  </h3>
+
+  <p style="position: relative;">
+    📍 Mosta, Malta Europe  
+    <br>
+    <a href="https://mfarhanakram.vercel.app/" style="color: #00f5ff; text-decoration: none;">Portfolio</a> |
+    <a href="mailto:farhanakramryk@gmail.com" style="color: #00f5ff; text-decoration: none;">Email</a>
+  </p>
+
+</div>
 
 ---
 
