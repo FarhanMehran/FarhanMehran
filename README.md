@@ -1,8 +1,6 @@
-## Header
 <p align="center">
   <img src="header.png" alt="Banner" />
 </p>
----
 
 ## About Me
 I am a passionate **Full-Stack Mobile Developer** with expertise in:
@@ -59,9 +57,10 @@ Delivered **50+ apps worldwide**, specializing in offline-first, AI-integrated, 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarhanMehran\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanMehran\&hide=html\&theme=radical\&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FarhanMehran&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanMehran&hide=html&theme=radical&layout=compact" />
+</p>
 ---
 
 ## Contact Me
