@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Farhan Akram
 **Full-Stack Mobile Developer | iOS, Android & Cross-Platform Expert**  
-Dubai, UAE  
+Mosta, Malta Europe  
 [Portfolio](https://mfarhanakram.vercel.app/)  
 [Email](mailto:farhanakramryk@gmail.com)  
 
