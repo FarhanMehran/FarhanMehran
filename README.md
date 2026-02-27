@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" alt="Banner" />
+  <img src="banner.png" alt="Banner" />
 </p>
 
 ## About Me
@@ -57,10 +57,8 @@ Delivered **50+ apps worldwide**, specializing in offline-first, AI-integrated, 
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhanMehran&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanMehran&hide=html&theme=radical&layout=compact" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarhanMehran&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanMehran&hide=html&theme=radical&layout=compact)
 ---
 
 ## Contact Me
