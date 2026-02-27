@@ -1,30 +1,4 @@
-<svg width="600" height="200" viewBox="0 0 600 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="600" height="200" rx="12" fill="#0F172A"/>
-  <path d="M400 0L600 200H450L250 0H400Z" fill="#1E293B" fill-opacity="0.5"/>
-  
-  <text x="40" y="60" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#F8FAFC">
-    Hi, I'm Muhammad Farhan Akram
-  </text>
-  
-  <text x="40" y="95" font-family="Arial, sans-serif" font-size="18" font-weight="600" fill="#38BDF8">
-    Full-Stack Mobile Developer
-  </text>
-  <text x="40" y="118" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">
-    iOS, Android &amp; Cross-Platform Expert
-  </text>
-  
-  <rect x="40" y="140" width="520" height="1" fill="#334155"/>
-  
-  <text x="40" y="165" font-family="Arial, sans-serif" font-size="13" fill="#CBD5E1">
-    📍 Mosta, Malta Europe
-  </text>
-  
-  <text x="560" y="165" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8" text-anchor="end">
-    Portfolio | Email
-  </text>
-  
-  <circle cx="560" cy="40" r="15" stroke="#38BDF8" stroke-width="2" fill="none" opacity="0.3"/>
-</svg>
+## Header
 
 ---
 
