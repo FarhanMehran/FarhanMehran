@@ -1,6 +1,6 @@
 ## Header
 <p align="center">
-  <img src="banner.png" alt="Banner" />
+  <img src="header.png" alt="Banner" />
 </p>
 ---
 
